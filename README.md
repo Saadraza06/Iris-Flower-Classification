@@ -22,4 +22,11 @@ This project is a machine learning implementation for classifying iris flowers i
 
 • Petal features outperform sepal features in prediction.
 
+# 👤 About Me
+
+Aspiring data scientist passionate about machine learning and real-world problem solving.
+
+📍 Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-saad-raza-7a98b0286)
 
