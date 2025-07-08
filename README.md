@@ -12,7 +12,8 @@ This project is a machine learning implementation for classifying iris flowers i
 
 • Scikit-learn
 
-#📊 Insights
+# 📊 Insights
+
 • Petal length & width are key features for classification.
 
 • Setosa is easily separable; Versicolor & Virginica overlap slightly.
